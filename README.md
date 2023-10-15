@@ -18,8 +18,9 @@ I am in constant learning solving daily challenges.
   <img src="https://www.iped.com.br/img/cursos/56207.jpg" height="25"/> 
 </p>
 
-<!-- -->
+<!-- 
 <p>
   <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=cangadev&show_icons=true&locale=en&layout=compact" alt="cangadev"   />
 </p>
+-->
 
